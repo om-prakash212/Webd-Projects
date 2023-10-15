@@ -1,0 +1,1 @@
+    document.getElementsByClassName("greet-box")[1].
