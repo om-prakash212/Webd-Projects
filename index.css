@@ -34,7 +34,7 @@ header{
 }
 .nav-bar a{
     background-color: rgba(16, 16, 16, 0.716);
-
+    color: white;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     
