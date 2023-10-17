@@ -144,6 +144,7 @@ header{
     .nav-bar i{
         display: block;
         color: white;
+        padding-left: 5px;
     }
     
     .section1-frontpage{
